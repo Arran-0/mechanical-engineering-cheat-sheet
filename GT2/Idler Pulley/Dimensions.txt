@@ -1,0 +1,4 @@
+Bore: 5mm
+Height: 8.5mm
+Width (Diameter): 18mm
+Belt Diameter (Around Center): 12mm
